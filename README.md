@@ -1,279 +1,247 @@
-<!-- ░░ HERO ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00c6ff&height=260&section=header&text=Bhuvanesh%20Kumar%20R&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Vision%20%C3%97%20Language%20%C3%97%20Cloud&descAlignY=60&descSize=20&animation=fadeIn&stroke=00c6ff&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=230&section=header&text=Bhuvanesh%20Kumar%20R&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20at%20Foxefy%20%7C%20Data%20Science%20at%20VIT%20Chennai&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=680&height=50&lines=%3E+loading+model%3A+bhuvanesh-kumar-r+...;Teaching+machines+to+see%2C+read+and+ship;Developer+%40+Foxefy+%E2%80%94+Vision-Language+Models;Integrated+M.Tech+Data+Science+%40+VIT+Chennai;Models+belong+in+products%2C+not+notebooks." alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=Building+AI+systems+that+leave+the+notebook;Cloud+infrastructure+and+vision-language+models+at+Foxefy;Computer+vision+%7C+LLM+applications+%7C+Deployment;Integrated+M.Tech+in+Data+Science+at+VIT+Chennai" alt="Introduction"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhuvanesh-kumar-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bhuvanesh200768@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/status-open_to_internships-00c6ff?style=for-the-badge&labelColor=302b63"/>
-  <img src="https://komarev.com/ghpvc/?username=bhuvaneshkumar-cyber&style=for-the-badge&color=302b63&label=VIEWS"/>
-</p>
-
-<p align="center">
-  <i>I build AI that leaves the notebook: models that watch posture, catch traffic violations,<br/>
-  fact-check videos as they play and write up clinical notes, then I deploy them to the cloud.</i>
+  <img src="https://img.shields.io/badge/Chennai%2C_India-302b63?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=bhuvaneshkumar-cyber&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
 
-<!-- ░░ MODEL CARD + BENCHMARKS ░░ -->
+## About
+
+I'm an Integrated M.Tech student in Computer Science and Engineering (Data Science) at VIT Chennai. I got into AI by building things rather than reading about them. Most of what I know came from hackathons, where an idea has to become a working prototype in 8 or 24 hours.
+
+Along the way I realized the model is the easy part. What interests me is everything around it: the server it runs on, the pipeline that ships it, and the harness that lets an LLM actually do work. That is what I work on at **Foxefy**, a startup where I build cloud infrastructure and vision-language models.
+
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="55%" valign="top">
 
-<h3>🧬 Model Card</h3>
-<sub><i>if I were on the Hub, this is the card you'd read</i></sub>
+**Experience**
 
-```yaml
-model_id:      bhuvanesh-kumar-r
-version:       2026.10  # still fine-tuning
-architecture:  data-scientist ⊕ full-stack-builder
-base_model:    Integrated M.Tech · Data Science
-               @ VIT Chennai
-fine_tuned_on:
-  - Vision-Language Models   # Developer @ Foxefy
-  - Cyber-physical systems   # Research Intern @ CCPS
-  - 10+ hackathons
-modalities:    [vision, language, cloud]
-communities:
-  - AI/ML     @ Microsoft Innovations Club
-  - Cloud & DevOps @ GDG on Campus
-  - Rotaract
-intended_use:
-  - AI/ML & full-stack internships
-  - research collaborations
-  - hackathon teams
-known_limitations:
-  - cannot ignore a hackathon sign-up form
-```
+| Role | Organization | Period |
+|:--|:--|:--|
+| Full-time Developer | [Foxefy](https://www.linkedin.com/company/foxefy/) | Sep 2026 – Present |
+| Research Intern | Centre for Cyber Physical Systems, VIT Chennai | Summer 2026 |
+| Member, AI/ML Department | Microsoft Innovations Club, VIT Chennai | Sep 2026 – Present |
+| Member, Cloud & DevOps Department | GDG on Campus, VIT Chennai | Sep 2026 – Present |
+| Member, PRO Team | Rotaract Club of VIT Chennai | Jul 2026 – Present |
 
 </td>
-<td width="44%" valign="top">
+<td width="45%" valign="top">
 
-<h3>🏆 Benchmarks</h3>
-<sub><i>evaluated on real leaderboards</i></sub>
+**Education**
 
-| Eval | Score |
-|:--|:--:|
-| **Pythonix 2026** | 🥇 1st |
-| **Samhita'26** @ MIT | 🥈 2nd + cash prize |
-| **GDG** Cloud & DevOps | Top 5% of 3,000+ |
-| **CCPS** Research | Intern '26 |
-| ISRO Bharatiya Antariksh Hackathon | ✔ competed |
-| BLACKBOX CTF | ✔ competed |
-| I2X '26 Pitchathon | ✔ pitched |
-| MongoDB Skill Badge | ✔ CRUD |
+**Vellore Institute of Technology, Chennai**<br/>
+Integrated M.Tech, CSE (Data Science)<br/>
+2025 – 2030 · CGPA 8
 
-<sub>🥈 Samhita: a privacy-preserving audit prototype for enterprise data compliance and third-party auditing, designed and deployed in an 8-hour sprint.</sub>
+**Vidya Mandir, Chennai**<br/>
+Higher Secondary (CBSE), Computer Science<br/>
+2025 · 90.2%
+
+**Certifications**<br/>
+MongoDB: CRUD Operations<br/>
+MongoDB: Indexing Design Fundamentals
 
 </td>
 </tr>
 </table>
 
-<!-- ░░ PROJECTS ░░ -->
-<h2 align="center">🧪 Multimodal Outputs</h2>
-<p align="center"><sub><i>things I've shipped, sorted by how they perceive the world</i></sub></p>
+## Projects
 
-<h3>👁️ It sees</h3>
+### Computer Vision
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### [PoseGuard](https://github.com/bhuvaneshkumar-cyber/Posture-detection)
-Real-time posture correction for yoga and fitness.
+Real-time posture monitoring and correction for yoga and fitness.
 
-- YOLO11-m + RTMPose-m keypoints → 57-D biomechanical features
-- **GA-PQNet**: a graph-attention posture-quality net with per-joint explainability and uncertainty
-- ONNX pipeline at 30+ FPS on a Tesla T4
+- YOLO11-m person detection with RTMPose-m keypoints (SimCC decoding)
+- 57-dimensional biomechanical features: joint angles, limb symmetry, center of mass
+- GA-PQNet, a graph-attention network that scores posture quality with per-joint attention and uncertainty estimates
+- ONNX inference at 30+ FPS on a Tesla T4, with CI on GitHub Actions
 
-`PyTorch` `RTMPose` `YOLO11` `ONNX`
+`PyTorch` `MMPose` `Ultralytics` `ONNX Runtime` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
 #### [AI Traffic Police](https://github.com/bhuvaneshkumar-cyber/AI-Traffic-CV-model)
-End-to-end traffic monitoring and violation detection.
+Real-time traffic management and violation detection.
 
-- YOLOv8 detection + ByteTrack persistent IDs
-- Wrong-way and overspeed detection, tripwire counts, density heatmaps
-- Live Streamlit control dashboard
+- YOLOv8 multi-class vehicle detection with ByteTrack persistent tracking
+- Wrong-way and overspeed detection with snapshot evidence
+- Bi-directional tripwire counting and traffic density heatmaps
+- Live Streamlit dashboard for video feeds and alerts, with ONNX export
 
-`YOLOv8` `ByteTrack` `OpenCV` `Streamlit`
+`Ultralytics` `Supervision` `OpenCV` `Shapely` `Streamlit`
 
 </td>
 </tr>
 </table>
 
-<h3>💬 It reads, listens & talks</h3>
+### LLM and Language Systems
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
 #### [Real-Time Fact Checker](https://github.com/bhuvaneshkumar-cyber/Real-Time-Fact-Checker)
-A Chrome extension that fact-checks what's said *while you watch*.
+A Chrome extension that fact-checks what is being said while you watch.
 
-- YouTube captions, any tab's audio, or selected text
-- Whisper in the browser, Llama on your machine. Nothing leaves it.
-- True / False / Misleading verdicts with clickable timestamps
+- Reads YouTube captions, any tab's audio, or selected text
+- Transcribes locally with Whisper and judges claims with a local LLM, with optional web search
+- True, False, Misleading or Unverifiable verdicts with clickable timestamps
 
-`Ollama` `transformers.js` `FastAPI`
+`Manifest V3` `FastAPI` `Ollama` `transformers.js`
 
 </td>
 <td width="33%" valign="top">
 
 #### [ClinDoc AI](https://github.com/bhuvaneshkumar-cyber/SIH-Hackathon)
-Ambient clinical documentation, a prototype for SIH 2026.
+Ambient clinical documentation assistant built for Smart India Hackathon 2026.
 
-- Listens to doctor–patient talk and extracts symptoms, diagnoses and medications
-- Writes FHIR-compliant notes, discharge summaries and prescriptions
-- Drug–drug interaction safety layer
+- Streams consultation audio over WebSockets
+- Extracts symptoms, diagnoses and medications with scispaCy and med7
+- Generates HL7 FHIR R4 notes, with drug interaction checks and JWT auth
 
-`React` `FastAPI` `scispaCy` `WebSockets`
+`React` `TypeScript` `FastAPI` `spaCy`
 
 </td>
 <td width="33%" valign="top">
 
 #### [LLM Sandbox CTF](https://github.com/bhuvaneshkumar-cyber/LLMSandBOXCTF)
-*Vault Keeper*: talk an LLM out of its secret flag.
+A prompt-injection capture-the-flag platform for hackathons and GDG events.
 
-- Prompt-injection challenge for GDG and hackathon events
-- Guardrails, rate limits and an LLM provider fallback chain
-- three.js console, deployed on Render
+- An LLM persona guards a hidden flag that players try to extract
+- Per-user rate limits, admin access control and an OpenRouter-to-Gemini fallback chain
+- three.js interface, containerized and deployed on Render with PostgreSQL
 
-`FastAPI` `three.js` `TypeScript`
+`FastAPI` `SQLAlchemy` `three.js` `Docker`
 
 </td>
 </tr>
 </table>
 
-<h3>📈 It thinks in numbers</h3>
+### Applied Machine Learning
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
 #### [NUtri-INO](https://github.com/bhuvaneshkumar-cyber/NUtri-INO)
-An AI health dashboard, pitched at I2X '26.
+AI health ecosystem pitched at the I2X '26 Pitchathon.
 
-- Meal and pantry scanning with Gemini 2.5 Flash
-- A Gauss-Jordan optimizer that hits exact macro targets
-- Weight forecasts and Pearson lifestyle insights
+- Gemini 2.5 Flash turns meal and pantry photos into structured macro data
+- Gauss-Jordan elimination solves for exact macronutrient targets
+- Linear-regression weight forecasts and Pearson-correlation lifestyle insights
 
-`Gemini` `NiceGUI` `Flask`
+`NiceGUI` `Flask` `Gemini API` `NumPy`
 
 </td>
 <td width="33%" valign="top">
 
 #### [GigSave](https://github.com/bhuvaneshkumar-cyber/DataStorm)
-Financial resilience for gig workers.
+Financial resilience platform for gig workers.
 
-- Auto micro-savings and income smoothing
-- An alternative credit score from RandomForest, explained with SHAP
-- Upload a statement and get your income and volatility scored
+- Automatic micro-savings through round-ups and income smoothing
+- Alternative credit score from a rule engine and RandomForest, explained with SHAP
+- Scores income and volatility from uploaded PDF, CSV, Excel or Word statements
 
-`scikit-learn` `SHAP` `FastAPI` `Supabase`
+`FastAPI` `scikit-learn` `SHAP` `React` `Supabase`
 
 </td>
 <td width="33%" valign="top">
 
 #### [Rhythm Anchor](https://github.com/bhuvaneshkumar-cyber/V-Vortex-)
-A non-clinical well-being indicator, built at V-Vortex.
+Non-clinical mental well-being indicator built at the V-Vortex Hackathon.
 
-- A Stability Index from IsolationForest anomaly detection
+- Stability Index from Isolation Forest anomaly detection and lifestyle factors
 - Doomscroll detection from scroll velocity and time of day
-- A Gemini wellness coach
+- Conversational wellness coach powered by Gemini 2.5 Flash
 
-`Streamlit` `scikit-learn` `Altair`
+`Streamlit` `scikit-learn` `Altair` `Gemini API`
 
 </td>
 </tr>
 </table>
 
-<!-- ░░ STACK ░░ -->
-<h2 align="center">🛠️ The Weights</h2>
-<p align="center"><sub><i>the tools my parameters were trained on</i></sub></p>
+## Hackathons and Recognition
+
+| Event | Organizer | Outcome | Date |
+|:--|:--|:--|:--|
+| Innovation Unbound '26 | CodeChef Club, VIT Chennai | 24-hour fintech hackathon at technoVIT '26; qualified for the final round | Aug 2026 |
+| Bharatiya Antariksh Hackathon 2026 | ISRO | Participant | Jul 2026 |
+| BLACKBOX CTF | CodeChef Club, VIT Chennai | Competed in a capture-the-flag security challenge | Jul 2026 |
+| Samhita '26 Hackathon | MIT, Anna University | **2nd place**: privacy-preserving audit prototype for enterprise data compliance, built in 8 hours | Mar 2026 |
+| Prayatna '26 Prayacthon | MIT, Anna University | VISION-ZERO, an Edge-AI prototype for privacy-safe fleet tracking under the DPDP Act; recognized by Tekion executives | Mar 2026 |
+| Pythonix 2026 | CADS, VIT Chennai | **1st place** | Mar 2026 |
+| I2X Pitchathon | SCOPE, VIT Chennai | Pitched NUtri-INO | Feb 2026 |
+| V-Vortex Hackathon | SCOPE, VIT Chennai | Built Rhythm Anchor | Jan 2026 |
+| GDG on Campus, Cloud & DevOps | GDG VIT Chennai | Selected in the top 5% of 3,000+ applicants | 2026 |
+
+## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,fastapi,flask,react,vite,ts,js,threejs,mongodb,postgres,mysql,docker,gcp,linux,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,r,ts,js,html,css,pytorch,tensorflow,sklearn,opencv,fastapi,flask,django,react,vite,threejs,postgres,supabase,sqlite,mysql,mongodb,redis,cassandra,docker,githubactions,git,linux&perline=10" />
 </p>
 
-<div align="center">
+| Area | Tools and technologies |
+|:--|:--|
+| **Languages** | Python, C, C++, Java, R, SQL, TypeScript, JavaScript, HTML, CSS |
+| **Machine Learning** | PyTorch, TensorFlow, scikit-learn, SHAP, Isolation Forest, Random Forest, regression and correlation analysis |
+| **Computer Vision** | OpenCV, Ultralytics YOLOv8 and YOLO11, MMPose (RTMPose), MMDetection, Supervision (ByteTrack), ONNX, ONNX Runtime, Shapely |
+| **LLMs and NLP** | Google Gemini API, Ollama, OpenRouter, OpenAI SDK, Whisper via transformers.js, spaCy, scispaCy, med7 |
+| **Data and Visualization** | NumPy, Pandas, SciPy, SymPy, Matplotlib, Seaborn, Plotly, Altair, Recharts, TensorBoard |
+| **Document Processing** | pdfplumber, PyMuPDF, python-docx, openpyxl, Tesseract OCR |
+| **Backend and APIs** | FastAPI, Flask, Django, Uvicorn, Pydantic, SQLAlchemy, REST APIs, WebSockets, JWT |
+| **Frontend** | React, Vite, three.js, anime.js, NiceGUI, Streamlit, Chrome Extensions (Manifest V3) |
+| **Databases** | PostgreSQL, Supabase, SQLite, MySQL, Oracle SQL, MongoDB, Redis, Cassandra, HBase |
+| **Big Data** | Hadoop (HDFS, MapReduce), Spark |
+| **Cloud and DevOps** | Docker, Docker Compose, Render, GitHub Actions, Git, Linux, pytest |
+| **Foundations** | Data Structures, Object-Oriented Programming, Operating Systems, Computer Networks, Computer Organization and Architecture, Linear Algebra |
 
-| 👁️ Vision | 💬 Language | 🧮 ML & Data | ☁️ Ship it |
-|:---:|:---:|:---:|:---:|
-| YOLOv8 · YOLO11 | Gemini API · Ollama | scikit-learn · SHAP | FastAPI · Flask |
-| RTMPose · ByteTrack | Whisper · transformers.js | NumPy · Pandas | Streamlit · NiceGUI |
-| OpenCV · ONNX | scispaCy · med7 | IsolationForest · RandomForest | WebSockets · Docker · GCP |
-
-</div>
-
-<!-- ░░ TRAINING LOG ░░ -->
-<h2 align="center">📉 Training Log</h2>
-<p align="center"><sub><i>loss going down, skills going up</i></sub></p>
-
-```bash
-$ python train.py --model bhuvanesh-kumar-r --epochs ∞
-
-Epoch 2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━  init
-  └─ VIT Chennai .................. Integrated M.Tech (Data Science)
-
-Epoch 2026  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━  lr ↑  loss ↓
-  ├─ V-Vortex Hackathon ........... shipped Rhythm Anchor
-  ├─ I2X Pitchathon ............... pitched NUtri-INO
-  ├─ Pythonix ..................... 1st place          ★
-  ├─ Samhita'26 @ MIT ............. 2nd place + cash   ★
-  ├─ CCPS ......................... research internship
-  ├─ ISRO BAH · BLACKBOX CTF ...... competed
-  ├─ Innovation Unbound ........... 24-hour hackathon
-  ├─ MIC · GDG · Rotaract ......... joined
-  └─ Foxefy ....................... developer · Cloud + VLMs
-
-[checkpoint saved]  now training on → vision-language models + cloud
-```
-
-<!-- ░░ TELEMETRY ░░ -->
-<h2 align="center">📊 Telemetry</h2>
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshkumar-cyber&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshkumar-cyber&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshkumar-cyber&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshkumar-cyber&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhuvaneshkumar-cyber&theme=tokyonight&hide_border=true&border_radius=12&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+  <img src="https://streak-stats.demolab.com?user=bhuvaneshkumar-cyber&theme=tokyonight&hide_border=true&border_radius=10&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
 </p>
 
 <!-- Contribution snake: generated by .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvaneshkumar-cyber/bhuvaneshkumar-cyber/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/bhuvaneshkumar-cyber/bhuvaneshkumar-cyber/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/bhuvaneshkumar-cyber/bhuvaneshkumar-cyber/output/github-snake.svg" />
   </picture>
 </p>
 
-<!-- ░░ CONTACT ░░ -->
-<h2 align="center">📡 Inference Endpoint</h2>
+## Get in Touch
 
-```python
->>> bhuvanesh.predict("Got a problem involving vision, language, or the cloud?")
-"Yes. Let's build it."
-```
-
-<p align="center">
-  Open to <b>AI/ML & full-stack internships</b>, <b>research collaborations</b> and <b>hackathon teams</b>.
-</p>
+I'm open to **research collaborations**, **internships** and **hackathon teams**, especially work involving computer vision, language models or cloud deployment.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhuvanesh-kumar-r/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bhuvanesh200768@gmail.com"><img src="https://img.shields.io/badge/Send_a_request-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:bhuvanesh200768@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
 </p>
