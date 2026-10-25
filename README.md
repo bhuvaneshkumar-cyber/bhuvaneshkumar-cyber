@@ -58,6 +58,30 @@ MongoDB: Indexing Design Fundamentals
 </tr>
 </table>
 
+## Open Source
+
+<p align="center">
+  <a href="https://github.com/google/go-github/pull/4646"><img src="https://img.shields.io/badge/Google_Open_Source-go--github_Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google go-github contributor"/></a>
+</p>
+
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+  <a href="https://github.com/bhuvaneshkumar-cyber?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="96" alt="Pull Shark achievement"/></a><br/>
+  <sub><b>Pull Shark</b></sub>
+</td>
+<td valign="top">
+
+**[google/go-github](https://github.com/google/go-github)**: Google's Go library for the GitHub API<br/>
+[PR #4646](https://github.com/google/go-github/pull/4646), merged Oct 2026. Added support for GitHub Actions cache retention and storage limits for repositories and enterprises: 438 lines of Go, including tests.
+
+**[Repository-Fixer](https://github.com/MIC-AIML-Build-Cycle-2026-27/Repository-Fixer)**: an MIC AI/ML agent that turns GitHub issues into draft pull requests<br/>
+[PR #5](https://github.com/MIC-AIML-Build-Cycle-2026-27/Repository-Fixer/pull/5), merged Oct 2026. Built the issue-to-PR fix loop (baseline tests, LLM patch, re-test, retry) and hardened the container sandbox.
+
+</td>
+</tr>
+</table>
+
 ## Projects
 
 ### Computer Vision
@@ -191,17 +215,16 @@ Non-clinical mental well-being indicator built at the V-Vortex Hackathon.
 | Pythonix 2026 | CADS, VIT Chennai | **1st place** | Mar 2026 |
 | I2X Pitchathon | SCOPE, VIT Chennai | Pitched NUtri-INO | Feb 2026 |
 | V-Vortex Hackathon | SCOPE, VIT Chennai | Built Rhythm Anchor | Jan 2026 |
-| GDG on Campus, Cloud & DevOps | GDG VIT Chennai | Selected in the top 5% of 3,000+ applicants | 2026 |
 
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,r,ts,js,html,css,pytorch,tensorflow,sklearn,opencv,fastapi,flask,django,react,vite,threejs,postgres,supabase,sqlite,mysql,mongodb,redis,cassandra,docker,githubactions,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,r,ts,js,html,css,pytorch,tensorflow,sklearn,opencv,fastapi,flask,django,react,vite,threejs,postgres,supabase,sqlite,mysql,mongodb,redis,cassandra,docker,githubactions,git,linux&perline=11" />
 </p>
 
 | Area | Tools and technologies |
 |:--|:--|
-| **Languages** | Python, C, C++, Java, R, SQL, TypeScript, JavaScript, HTML, CSS |
+| **Languages** | Python, Go, C, C++, Java, R, SQL, TypeScript, JavaScript, HTML, CSS |
 | **Machine Learning** | PyTorch, TensorFlow, scikit-learn, SHAP, Isolation Forest, Random Forest, regression and correlation analysis |
 | **Computer Vision** | OpenCV, Ultralytics YOLOv8 and YOLO11, MMPose (RTMPose), MMDetection, Supervision (ByteTrack), ONNX, ONNX Runtime, Shapely |
 | **LLMs and NLP** | Google Gemini API, Ollama, OpenRouter, OpenAI SDK, Whisper via transformers.js, spaCy, scispaCy, med7 |
