@@ -35,7 +35,6 @@ Along the way I realized the model is the easy part. What interests me is everyt
 | Research Intern | Centre for Cyber Physical Systems, VIT Chennai | Summer 2026 |
 | Member, AI/ML Department | Microsoft Innovations Club, VIT Chennai | Sep 2026 – Present |
 | Member, Cloud & DevOps Department | GDG on Campus, VIT Chennai | Sep 2026 – Present |
-| Member, PRO Team | Rotaract Club of VIT Chennai | Jul 2026 – Present |
 
 </td>
 <td width="45%" valign="top">
@@ -268,3 +267,4 @@ I'm open to **research collaborations**, **internships** and **hackathon teams**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
 </p>
+<img src="koi/koi.gif" width="256" alt="My koi" />
