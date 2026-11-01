@@ -223,8 +223,8 @@ Non-clinical mental well-being indicator built at the V-Vortex Hackathon.
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=bhuvaneshkumar-cyber&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=bhuvaneshkumar-cyber&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvaneshkumar-cyber&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvaneshkumar-cyber&theme=tokyonight" alt="Most committed languages" />
 </p>
 
 <p align="center">
@@ -253,4 +253,3 @@ I'm open to **research collaborations**, **internships** and **hackathon teams**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
 </p>
-<img src="koi/koi.gif" width="256" alt="My koi" />
